@@ -2,14 +2,14 @@
 Smart-Adaptive-AI-Bioacoustics/
 
 │── 📜 README.md          # Project overview, objectives, and setup  
-│── 📜 LICENSE            # License details (if applicable)  
+│── 📜 LICENSE            # License details (TBU)  
 │── 📜 .gitignore         # Ignore unnecessary files  
 │── 📂 docs/              # Research papers, reports, and references  
-│── 📂 data/              # Sample anonymized datasets (if shareable)  
-│── 📂 models/            # Model architecture details (if shareable)  
+│── 📂 data/              # Sample anonymized datasets (Upon request)  
+│── 📂 models/            # Model architecture details   
 │── 📂 scripts/           # Utility scripts for preprocessing & analysis  
 │── 📂 results/           # Visual outputs, logs, and performance metrics  
-│── 📂 notebooks/         # Jupyter Notebooks for experiments (if shareable)  
+│── 📂 notebooks/         # Jupyter Notebooks for experiments (TBU)  
 │── 📂 assets/            # Screenshots, graphs, and visualization media  
 
 AI-powered deep transfer learning for analyzing and monitoring animal vocalizations to enhance biodiversity conservation and understand wildlife behavior. This project leverages bioacoustics data and adaptive AI models to recognize species, track ecological changes, and support conservation efforts.
